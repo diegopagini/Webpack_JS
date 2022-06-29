@@ -1,6 +1,9 @@
-import { saludar } from './js/componentes';
+/** @format */
 import './styles.css';
+
+import { saludar } from './js/componentes';
+
 
 const nombre = 'Fernando';
 
-saludar( nombre );
+saludar(nombre);
